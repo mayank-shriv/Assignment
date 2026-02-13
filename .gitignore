@@ -1,0 +1,17 @@
+node_modules
+.env
+npm-debug.log*
+.DS_Store
+
+# Test files
+cookies.txt
+output.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
